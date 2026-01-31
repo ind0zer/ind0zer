@@ -43,7 +43,7 @@ I care about:
 - Full-stack MVPs (idea → prod)
 
 ## 🧩 Tech Stack
-<p align="center">
+<div style="display: flex; flex-direction="row;"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
@@ -57,7 +57,7 @@ I care about:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" />
-</p>
+</div>
 ## 🤝 Contact
 Best way to reach me — Telegram:  
 👉 <a href="https://t.me/indo3er">@indo3er</a>
